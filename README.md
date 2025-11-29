@@ -17,6 +17,7 @@ The dataset was cleaned, transformed, and modeled to create dynamic visuals and 
 | **Top Customer**         | **Sean Miller – 25K Sales**  |
 
 📌 Dashboard Features
+
 ✔ Sales & Profit Trends
 
 Year-wise analysis from 2011–2014
