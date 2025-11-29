@@ -18,34 +18,57 @@ The dataset was cleaned, transformed, and modeled to create dynamic visuals and 
 
 📌 Dashboard Features
 ✔ Sales & Profit Trends
+
 Year-wise analysis from 2011–2014
+
 Growth from 0.53M to 0.83M in yearly sales
+
 ✔ Customer & Segment Analysis
+
 Consumer segment contributes the largest revenue share (1.16M)
+
 Top customers identified along with total sales contribution
+
 ✔ Regional Performance
+
 West is the highest-performing region
+
 State-level profitability visualized with margins and comparisons
+
 ✔ Product & Category Insights
+
 Best-selling products with quantities sold up to 44 units
+
 Sub-categories with the highest and lowest profit
+
 Negative profit segments highlighted for improvement
+
 ✔ Returns & Profitability
+
 Overall 5.93% return rate
+
 Impact of returns visualized across regions and product categories
 
 🛠️ Skills & Tools Used
 Power BI
-Data modeling
-DAX measures
-Interactive visuals
-Page navigation & storytelling
-Data Skills
-Data Cleaning (Power Query)
-KPI creation
-Trend & comparative analysis
-Business storytelling with dashboards
 
+Data modeling
+
+DAX measures
+
+Interactive visuals
+
+Page navigation & storytelling
+
+Data Skills
+
+Data Cleaning (Power Query)
+
+KPI creation
+
+Trend & comparative analysis
+
+Business storytelling with dashboards
 🎯 Outcome
 This dashboard provides a clear overview of sales performance and helps identify:
 Best-selling products
