@@ -70,10 +70,17 @@ KPI creation
 Trend & comparative analysis
 
 Business storytelling with dashboards
+
 🎯 Outcome
+
 This dashboard provides a clear overview of sales performance and helps identify:
+
 Best-selling products
+
 High-revenue regions
+
 Customer profitability
+
 Negative profit categories
-Yearly growth trends
+
+Yearly growth trendss
